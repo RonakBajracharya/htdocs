@@ -26,7 +26,7 @@
 
 
   <header id="header" class="d-flex align-items-center header-inner">
-    <div class="container-fluid container-xxl d-flex align-items-center">
+    <div class="container-fluid d-flex align-items-center">
 
       <div id="logo" class="me-auto">
 
@@ -44,24 +44,231 @@
 
     </div>
   </header>
-
   <main id="main" class="main-page">
 
     <section id="speakers-details">
       <div class="container">
 
         <div class="row panel">
-          <div class="col-md-6">
+          <div class="col-md-8" id="imgcon">
             <img src="images/fanart/1.jpg" alt="" class="img-fluid" id="big">
           </div>
 
-          <div class="col-md-6">
-            <div class="details">
-              <h2>Abilities</h2>
-              <p><br><br><br><br><br>Astra is a controller agent with a kit unlike any other in the game. Controlling the map with the stars from her Astral form, she rewards the players that take the time to plan out how they want their rounds to go before they even start.</p>
+          <div class="col-md-4" id="paragraph">
+            <div>
+              <h2 id="black">Image Name</h2>
+              <p class="black">Caption can be anything you want. voli what you do is make identical page for all the images</p>
             </div>
           </div>
 
+        </div>
+      </div>
+    </section>
+
+    <section id="speakers">
+      <div class="container" data-aos="fade-up">
+        <div class="section-header">
+          <h2>More Images</h2>
+        </div>
+
+        <div class="row">
+          
+          <div class="col-lg-3 col-md-6">
+            <div class="speaker" data-aos="fade-up" data-aos-delay="100">
+            <a href="agents.php">
+              <img src="images/fanart/1.jpg" alt="Breach" class="img-fluid img-rounded" id="port">
+            </div>
+            <div class="details">
+                <h4>Title</h4>
+                <p>Details maybe</p>
+                </a>
+              </div>
+          </div>
+
+          <div class="col-lg-3 col-md-6">
+            <div class="speaker" data-aos="fade-up" data-aos-delay="100">
+            <a href="agents.php">
+              <img src="images/fanart/2.jpg" alt="Breach" class="img-fluid img-rounded" id="port">
+            </div>
+            <div class="details">
+                <h4>Title</h4>
+                <p>Details maybe</p>
+                </a>
+              </div>
+          </div>
+
+          <div class="col-lg-3 col-md-6">
+            <div class="speaker" data-aos="fade-up" data-aos-delay="100">
+            <a href="agents.php">
+              <img src="images/fanart/3.jpg" alt="Breach" class="img-fluid img-rounded" id="port">
+            </div>
+            <div class="details">
+                <h4>Title</h4>
+                <p>Details maybe</p>
+                </a>
+              </div>
+          </div>
+
+          <div class="col-lg-3 col-md-6">
+            <div class="speaker" data-aos="fade-up" data-aos-delay="100">
+            <a href="agents.php">
+              <img src="images/fanart/4.jpg" alt="Breach" class="img-fluid img-rounded" id="port">
+            </div>
+            <div class="details">
+                <h4>Title</h4>
+                <p>Details maybe</p>
+                </a>
+              </div>
+          </div>
+
+          <div class="col-lg-3 col-md-6">
+            <div class="speaker" data-aos="fade-up" data-aos-delay="100">
+            <a href="agents.php">
+              <img src="images/fanart/5.jpg" alt="Breach" class="img-fluid img-rounded" id="port">
+            </div>
+            <div class="details">
+                <h4>Title</h4>
+                <p>Details maybe</p>
+                </a>
+              </div>
+          </div>
+
+          <div class="col-lg-3 col-md-6">
+            <div class="speaker" data-aos="fade-up" data-aos-delay="100">
+            <a href="agents.php">
+              <img src="images/fanart/6.jpg" alt="Breach" class="img-fluid img-rounded" id="port">
+            </div>
+            <div class="details">
+                <h4>Title</h4>
+                <p>Details maybe</p>
+                </a>
+              </div>
+          </div>
+
+          <div class="col-lg-3 col-md-6">
+            <div class="speaker" data-aos="fade-up" data-aos-delay="100">
+            <a href="agents.php">
+              <img src="images/fanart/7.jpg" alt="Breach" class="img-fluid img-rounded" id="port">
+            </div>
+            <div class="details">
+                <h4>Title</h4>
+                <p>Details maybe</p>
+                </a>
+              </div>
+          </div>
+
+          <div class="col-lg-3 col-md-6">
+            <div class="speaker" data-aos="fade-up" data-aos-delay="100">
+            <a href="agents.php">
+              <img src="images/fanart/8.jpg" alt="Breach" class="img-fluid img-rounded" id="port">
+            </div>
+            <div class="details">
+                <h4>Title</h4>
+                <p>Details maybe</p>
+                </a>
+              </div>
+          </div>
+
+          <div class="col-lg-3 col-md-6">
+            <div class="speaker" data-aos="fade-up" data-aos-delay="100">
+            <a href="agents.php">
+              <img src="images/fanart/9.jpg" alt="Breach" class="img-fluid img-rounded" id="port">
+            </div>
+            <div class="details">
+                <h4>Title</h4>
+                <p>Details maybe</p>
+                </a>
+              </div>
+          </div>
+
+          <div class="col-lg-3 col-md-6">
+            <div class="speaker" data-aos="fade-up" data-aos-delay="100">
+            <a href="agents.php">
+              <img src="images/fanart/10.jpg" alt="Breach" class="img-fluid img-rounded" id="port">
+            </div>
+            <div class="details">
+                <h4>Title</h4>
+                <p>Details maybe</p>
+                </a>
+              </div>
+          </div>
+
+          <div class="col-lg-3 col-md-6">
+            <div class="speaker" data-aos="fade-up" data-aos-delay="100">
+            <a href="agents.php">
+              <img src="images/fanart/11.jpg" alt="Breach" class="img-fluid img-rounded" id="port">
+            </div>
+            <div class="details">
+                <h4>Title</h4>
+                <p>Details maybe</p>
+                </a>
+              </div>
+          </div>
+
+          <div class="col-lg-3 col-md-6">
+            <div class="speaker" data-aos="fade-up" data-aos-delay="100">
+            <a href="agents.php">
+              <img src="images/fanart/12.jpg" alt="Breach" class="img-fluid img-rounded" id="port">
+            </div>
+            <div class="details">
+                <h4>Title</h4>
+                <p>Details maybe</p>
+                </a>
+              </div>
+          </div>
+
+          <div class="col-lg-3 col-md-6">
+            <div class="speaker" data-aos="fade-up" data-aos-delay="100">
+            <a href="agents.php">
+              <img src="images/fanart/13.jpg" alt="Breach" class="img-fluid img-rounded" id="port">
+            </div>
+            <div class="details">
+                <h4>Title</h4>
+                <p>Details maybe</p>
+                </a>
+              </div>
+          </div>
+
+          <div class="col-lg-3 col-md-6">
+            <div class="speaker" data-aos="fade-up" data-aos-delay="100">
+            <a href="agents.php">
+              <img src="images/fanart/14.jpg" alt="Breach" class="img-fluid img-rounded" id="port">
+            </div>
+            <div class="details">
+                <h4>Title</h4>
+                <p>Details maybe</p>
+                </a>
+              </div>
+          </div>
+
+          <div class="col-lg-3 col-md-6">
+            <div class="speaker" data-aos="fade-up" data-aos-delay="100">
+            <a href="agents.php">
+              <img src="images/fanart/15.jpg" alt="Breach" class="img-fluid img-rounded" id="port">
+            </div>
+            <div class="details">
+                <h4>Title</h4>
+                <p>Details maybe</p>
+                </a>
+              </div>
+          </div>
+
+          <div class="col-lg-3 col-md-6">
+            <div class="speaker" data-aos="fade-up" data-aos-delay="100">
+            <a href="agents.php">
+              <img src="images/fanart/16.jpg" alt="Breach" class="img-fluid img-rounded" id="port">
+            </div>
+            <div class="details">
+                <h4>Title</h4>
+                <p>Details maybe</p>
+                </a>
+              </div>
+          </div>
+
+          
+          
+                  
+          </div>
         </div>
       </div>
 
@@ -105,6 +312,7 @@
       </div>
     </div>
   </footer>
+  
 
   <a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
 
