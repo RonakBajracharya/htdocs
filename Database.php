@@ -1,17 +1,19 @@
 	<?php
 	session_start();
 	include_once("conn.php");
-	
-	$Name = $_POST["Name"];
-	
+
 	$Uname = $_POST["Uname"];
-	
-	$Pass = $_POST["Pass"];
 	
 	$Email = $_POST["Email"];
 
-	$sql="INSERT INTO info (Name,Uname,Pass,Email
-) VALUES('$Name','$Uname','$Pass','$Email')";
+	$Password = $_POST["Password"];
+
+	$DoB =$_POST["DoB"];
+
+
+
+	$sql="INSERT INTO info (Uname,Email,Password,DoB
+) VALUES('$Uname','$Email','$Password','$DoB')";
 
 if(isset($_POST["submit"]))
 	{
